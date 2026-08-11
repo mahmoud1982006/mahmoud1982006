@@ -95,7 +95,7 @@ I'm a second-year Computer Science student at Mansoura University, currently wor
 
 | Project | Description |
 |---|---|
-| 🦠 [**Wireshark Network Traffic Analysis**](./wireshark-network-traffic-analysis) | Hands-on `.pcap` investigation using Wireshark — DNS, HTTP, TCP, IP, and MAC-level filtering with payload inspection. |
+| 🦠 [**Wireshark Network Traffic Analysis**]([wireshark-network-traffic-analysis](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/8c9a3089dd42f4136a95dbcf6109b71fc49c9fb6/wireshark-network-traffic-analysis)) | Hands-on `.pcap` investigation using Wireshark — DNS, HTTP, TCP, IP, and MAC-level filtering with payload inspection. |
 | 🐛 [**Ransomware & Phishing Incident**](./ransomware-phishing-incident) | Incident handler's journal for a ransomware/phishing scenario in a healthcare clinic setting. |
 | 🧯 [**NIST CSF Incident Response**](./nist-csf-incident-response) | Investigated an ICMP flood / DDoS incident following the NIST Cybersecurity Framework. |
 | 🕸️ [**Network Attack Analysis**](./network-attack-analysis) | Analysis of common network attacks, hardening measures, and defensive mitigation techniques. |
