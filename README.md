@@ -95,16 +95,16 @@ I'm a second-year Computer Science student at Mansoura University, currently wor
 
 | Project | Description |
 |---|---|
-| 🦠 [**Wireshark Network Traffic Analysis**]([wireshark-network-traffic-analysis](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/8c9a3089dd42f4136a95dbcf6109b71fc49c9fb6/wireshark-network-traffic-analysis)) | Hands-on `.pcap` investigation using Wireshark — DNS, HTTP, TCP, IP, and MAC-level filtering with payload inspection. |
-| 🐛 [**Ransomware & Phishing Incident**](./ransomware-phishing-incident) | Incident handler's journal for a ransomware/phishing scenario in a healthcare clinic setting. |
-| 🧯 [**NIST CSF Incident Response**](./nist-csf-incident-response) | Investigated an ICMP flood / DDoS incident following the NIST Cybersecurity Framework. |
-| 🕸️ [**Network Attack Analysis**](./network-attack-analysis) | Analysis of common network attacks, hardening measures, and defensive mitigation techniques. |
-| 📡 [**TCPDump Network Analysis**](./tcpdump-network-analysis) | Captured and analyzed live network traffic using `tcpdump` from the command line. |
-| 🐚 [**TCPDump Network Traffic Capture & Analysis**](./tcpdump-network-traffic-capture) | Identified network interfaces and captured/filtered live traffic to a `.pcap` file using `tcpdump` and `curl` (Google Cloud Skills Boost: *Capture your first packet*). |
-| 🔑 [**Least Privilege & Data Leak Analysis**](./least-privilege-data-leak-analysis) | Investigated a data leak incident scenario through the lens of least-privilege access control. |
-| 🔐 [**Cryptography & OpenSSL Lab**](./caesar-cipher) | Decrypted a Caesar cipher with `tr` and an AES-256-CBC encrypted file using OpenSSL. |
-| 🗂️ [**Linux File Permissions & User Management**](./linux-commands-to-manage-file-permissions) | Used Linux commands and Bash to verify user permissions and secure the system. |
-| 🎓 [**Certificates**](./certificates) | Certificates earned throughout the Google Cybersecurity Professional Certificate journey. |
+| 🦠 [**Wireshark Network Traffic Analysis**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/8c9a3089dd42f4136a95dbcf6109b71fc49c9fb6/wireshark-network-traffic-analysis) | Hands-on `.pcap` investigation using Wireshark — DNS, HTTP, TCP, IP, and MAC-level filtering with payload inspection. |
+| 🐛 [**Ransomware & Phishing Incident**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/ransomware-phishing-incident) | Incident handler's journal for a ransomware/phishing scenario in a healthcare clinic setting. |
+| 🧯 [**NIST CSF Incident Response**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/nist-csf-incident-response) | Investigated an ICMP flood / DDoS incident following the NIST Cybersecurity Framework. |
+| 🕸️ [**Network Attack Analysis**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/network-attack-analysis) | Analysis of common network attacks, hardening measures, and defensive mitigation techniques. |
+| 📡 [**TCPDump Network Analysis**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/tcpdump-network-analysis) | Captured and analyzed live network traffic using `tcpdump` from the command line. |
+| 🐚 [**TCPDump Network Traffic Capture & Analysis**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/tcpdump-network-traffic-capture) | Identified network interfaces and captured/filtered live traffic to a `.pcap` file using `tcpdump` and `curl` (Google Cloud Skills Boost: *Capture your first packet*). |
+| 🔑 [**Least Privilege & Data Leak Analysis**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/least-privilege-data-leak-analysis) | Investigated a data leak incident scenario through the lens of least-privilege access control. |
+| 🔐 [**Cryptography & OpenSSL Lab**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/caesar-cipher) | Decrypted a Caesar cipher with `tr` and an AES-256-CBC encrypted file using OpenSSL. |
+| 🗂️ [**Linux File Permissions & User Management**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/linux-commands-to-manage-file-permissions) | Used Linux commands and Bash to verify user permissions and secure the system. |
+| 🎓 [**Certificates**](https://github.com/mahmoud1982006/mahmoud_ahmed/tree/main/certificates) | Certificates earned throughout the Google Cybersecurity Professional Certificate journey. |
 
 > More projects will be added as I continue the Google Cybersecurity Professional Certificate and start hands-on TryHackMe rooms (SOC Level 1 path).
 
