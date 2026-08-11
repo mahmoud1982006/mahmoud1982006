@@ -100,6 +100,7 @@ I'm a second-year Computer Science student at Mansoura University, currently wor
 | 🧯 [**NIST CSF Incident Response**](./nist-csf-incident-response) | Investigated an ICMP flood / DDoS incident following the NIST Cybersecurity Framework. |
 | 🕸️ [**Network Attack Analysis**](./network-attack-analysis) | Analysis of common network attacks, hardening measures, and defensive mitigation techniques. |
 | 📡 [**TCPDump Network Analysis**](./tcpdump-network-analysis) | Captured and analyzed live network traffic using `tcpdump` from the command line. |
+| 🐚 [**TCPDump Network Traffic Capture & Analysis**](./tcpdump-network-traffic-capture) | Identified network interfaces and captured/filtered live traffic to a `.pcap` file using `tcpdump` and `curl` (Google Cloud Skills Boost: *Capture your first packet*). |
 | 🔑 [**Least Privilege & Data Leak Analysis**](./least-privilege-data-leak-analysis) | Investigated a data leak incident scenario through the lens of least-privilege access control. |
 | 🔐 [**Cryptography & OpenSSL Lab**](./caesar-cipher) | Decrypted a Caesar cipher with `tr` and an AES-256-CBC encrypted file using OpenSSL. |
 | 🗂️ [**Linux File Permissions & User Management**](./linux-commands-to-manage-file-permissions) | Used Linux commands and Bash to verify user permissions and secure the system. |
