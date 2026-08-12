@@ -2,8 +2,7 @@
 
 # 👋 Mahmoud Ahmed
 
-### 🛡️ Aspiring SOC Analyst | Computer Science Student
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&width=900&lines=%F0%9F%9B%A1%EF%B8%8F+Aspiring+SOC+Analyst+%7C+Computer+Science+Student)](https://git.io/typing-svg)
 Building practical cybersecurity skills through hands-on labs, security reports, and defensive security projects.
 
 📍 Mansoura, Egypt
